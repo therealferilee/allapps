@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://therealferilee.github.io/allapps/"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "All Apps"
 theme = "slate"
 
 publishDir = "docs"
